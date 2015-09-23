@@ -145,6 +145,7 @@
 	</build>
 	<modules>
 		<module>Introduction</module>
+		<module>JSF</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
